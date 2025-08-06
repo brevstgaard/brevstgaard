@@ -2,4 +2,6 @@
 
 Jeg er Ron Brevstgaard og selv om vi ikke kan sige dav, så alligevel et pænt dav til dig.
 
+Det meste her er egentligt sat til private men det hænder at noget gøres public. Enten fordi det ikke længere er sjovt el. fordi det ikke kan skade ;-)
+
 ## Lykken tilsmiler den vågne 👋
