@@ -4,6 +4,6 @@ Jeg er Ron Brevstgaard og selv om vi ikke kan sige dav, så alligevel et pænt d
 
 Det meste her er egentligt sat til private men det hænder at noget gøres public. Enten fordi det ikke længere er sjovt el. fordi det ikke kan skade ;-)
 
-IT-medarbejder til dagligt + Tidligere Sysadmin og eCommerce SaaS drift/sælger (Managed Magento, Prestashop og WooCommerce).
+IT-medarbejder til dagligt + Tidligere Sysadmin og eCommerce SaaS drift/sælger (Managed Magento, Prestashop og WooCommerce). Udviklet +20 moduler hertil og ellers stået for en god bunke SEO både on og off -page. Selvgjort er velgjort og derfor også en haj inden for Google Ads kampagner, SoME og udarbejdelse af diverse GFX.
 
 ## Lykken tilsmiler den vågne 👋
