@@ -1,11 +1,13 @@
-## 👋 Godt at se dig her på min Github-page
+## 👋 Nice to see you here at my GitHub-page
 
-Jeg er Ron Brevstgaard og selv om vi ikke kan sige dav, så alligevel et pænt dav til dig.
+IT-worker with previous experience in IT operations (server, DNS, payment gateways, WAF etc.) and sale of different as-a-service solutions (hosted Prestashop/Magento and Wordpress). Skilled in 1st, 2nd and 3rd level support and knows every corner of NodeJS.
 
-Det meste her er egentligt sat til private men det hænder at noget gøres public. Enten fordi det ikke længere er sjovt el. fordi det ikke kan skade ;-)
+- +20 modules coded (Magento, Prestashop or WooCommerce)
+- Helped +100 eCommerce stores find their right place on the web
+- Data driven IT problem solver
+- Skilled in Google Ads, Google Search Console and Google Looker Studio (+ Certifications taken).
+- Video and photo -editing (Photoshop, InDesign and Davinci Resolve)
 
-IT-medarbejder til dagligt + Tidligere Sysadmin og eCommerce SaaS drift/sælger (Managed Magento, Prestashop og WooCommerce). Udviklet +20 moduler hertil og ellers stået for en god bunke SEO både on og off -page. Selvgjort er velgjort og derfor også en haj inden for Google Ads kampagner, SoME og udarbejdelse af diverse GFX.
+- Active car products reviwer on YouTube (in Danish).
 
-YT reviwer af diverse ting til biler og ellers hjælper jeg nogle eCommerce-sites med at få gang i deres fjernlys salg.
-
-## Lykken tilsmiler den vågne 👋
+## Now something short in Danish...: Lykken tilsmiler den vågne 👋
