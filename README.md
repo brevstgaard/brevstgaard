@@ -8,6 +8,7 @@ IT-worker with previous experience in IT operations (server, DNS, payment gatewa
 - Skilled in Google Ads, Google Search Console and Google Looker Studio (+ Certifications taken).
 - Video and photo -editing (Photoshop, InDesign and Davinci Resolve)
 
-- Active car products reviwer on YouTube (in Danish).
+- Active car products reviwer on YouTube (in Danish)
+- Oh, and I love to make standard tasks become something that happens by itself in Power Automate when it makes sense...
 
 ## Now something short in Danish...: Lykken tilsmiler den vågne 👋
