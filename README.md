@@ -11,4 +11,6 @@ IT-worker with previous experience in IT operations (server, DNS, payment gatewa
 - Active car products reviwer on YouTube (in Danish)
 - Oh, and I love to make standard tasks become something that happens by itself in Power Automate when it makes sense...
 
+Over 15 years of experience in eCommerce, specializing in both on-page and off-page SEO (including advanced link-building), Google Ads campaign optimization, and high-performance retargeting strategies across Google and social media platforms. Skilled in technical site optimization, Nordic market ranking strategies, and comprehensive digital growth solutions.
+
 ## Now something short in Danish...: Lykken tilsmiler den vågne 👋
