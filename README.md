@@ -13,4 +13,6 @@ IT-worker with previous experience in IT operations (server, DNS, payment gatewa
 
 Over 15 years of experience in eCommerce, specializing in both on-page and off-page SEO (including advanced link-building), Google Ads campaign optimization, and high-performance retargeting strategies across Google and social media platforms. Skilled in technical site optimization, Nordic market ranking strategies, and comprehensive digital growth solutions.
 
+![Ron Brevstgaard GitHub billede](imgs/PXL_20250531_152501925.jpg)
+
 ## Now something short in Danish...: Lykken tilsmiler den vågne 👋
